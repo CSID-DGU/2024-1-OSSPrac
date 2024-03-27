@@ -1,2 +1,2 @@
-print("Hi Kilsup Lee~")
-print("Hi Gildong Hong~")
+print("Hi Gagyeong Jeong~")
+print("Hi Gagyeong Jeong~")
