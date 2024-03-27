@@ -3,3 +3,9 @@
 
 [OSS실습 전자책 바로가기](https://wikidocs.net/book/13835)
 
+My Name: Hyunjong Lee
+
+My Class: OSSPrac
+
+Date: 27 mar 2024
+Weather: Cleanx
