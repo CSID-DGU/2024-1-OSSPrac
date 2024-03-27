@@ -3,3 +3,5 @@
 
 [OSS실습 전자책 바로가기](https://wikidocs.net/book/13835)
 
+Name : Gagyeong Jeong
+Date : 27, Mar 2024 
