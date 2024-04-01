@@ -2,3 +2,5 @@
 
 Fetch & merge
 A
+B
+C
