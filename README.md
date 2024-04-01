@@ -8,6 +8,6 @@ A
 B  
 C  
 D  
-F
+F  
 E  
 G  
