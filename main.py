@@ -1,2 +1,6 @@
-print("Hello LCW")
-print("Hello LCW2")
+print("Hello LeeChcolWoo")
+print("Hello world")
+print("Hello LeeChcolWoo")
+print("Hello world")
+print("Hello LeeChcolWoo")
+print("Hello world")
