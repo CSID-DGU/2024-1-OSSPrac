@@ -1,1 +1,1 @@
-print("Hello KH")
+print("Hello world - prac2")
