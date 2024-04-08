@@ -1,9 +1,6 @@
 # OSSPrac
 
-Fetch & merge
-A  
-B  
-C  
+Fetch & merge  
 D  
 G  
 E   
