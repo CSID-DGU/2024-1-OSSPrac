@@ -2,13 +2,5 @@
 - Created by KS Lee
 - Date: 2024. 4. 1.
 
-Fetch & Merge  
-A  
-B  
-C  
-D  
-F  
-E  
-G  
-H
-I  
+### 0408
+### 0408_1
