@@ -2,7 +2,7 @@
 - Created by KS Lee
 - Date: 2024. 3. 1.
 
-[[TIP("💡 전자책 바로가기")]]
+**💡 전자책 바로가기**
 **01강 오픈소스소프트웨어 시작하기**  
 [01-1 오픈소스소프트웨어 개요](https://wikidocs.net/232253)  
 [01-2 개발 및 소통 도구](https://wikidocs.net/225543)  
@@ -17,9 +17,8 @@
 [01 Docker-compose 개요](https://www.youtube.com/watch?v=pgkJiHCAgQc)  
 [02 단일 컨테이너 생성과 실행](https://www.youtube.com/watch?v=NF04_LSTGtE)  
 [03 복수 컨테이너 생성과 실행](https://www.youtube.com/watch?v=l2ID38zZXRQ)  
-[[/TIP]]  
 
-[[TIP("💡 동영상 강의 바로가기")]]
+**💡 동영상 강의 바로가기**
 **10강 Docker 이미지 관리**  
 [01 Docker 개념](https://www.youtube.com/watch?v=mpaYLpWUCps)  
 [02 Docker 운영 체계](https://www.youtube.com/watch?v=qPzRd4pRCgA)  
@@ -31,5 +30,4 @@
 **11강 Docker 서비스 빌드**  
 [01 Docker-compose 개요](https://www.youtube.com/watch?v=pgkJiHCAgQc)  
 [02 단일 컨테이너 생성과 실행](https://www.youtube.com/watch?v=NF04_LSTGtE)  
-[03 복수 컨테이너 생성과 실행](https://www.youtube.com/watch?v=l2ID38zZXRQ)  
-[[/TIP]]  
+[03 복수 컨테이너 생성과 실행](https://www.youtube.com/watch?v=l2ID38zZXRQ)   
