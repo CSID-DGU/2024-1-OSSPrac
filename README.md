@@ -3,28 +3,28 @@
 - Date: 2024. 3. 1.
 
 **01강 오픈소스소프트웨어 시작하기**  
-01-1 오픈소스소프트웨어 개요  [전자책](https://wikidocs.net/232253)  
-01-2 개발 및 소통 도구  [전자책](https://wikidocs.net/225543)  
-01-3 이력서 작성 및 팀 구성  [전자책](https://wikidocs.net/233181)  
+01-1 오픈소스소프트웨어 개요  [(전자책)](https://wikidocs.net/232253)  
+01-2 개발 및 소통 도구  [(전자책)](https://wikidocs.net/225543)  
+01-3 이력서 작성 및 팀 구성  [(전자책)](https://wikidocs.net/233181)  
 
 **02강 가상머신 (Virtual Machine)**  
-02-1 가상화 개념  [전자책](https://wikidocs.net/225653)  
-02-2 VirtualBox  [전자책](https://wikidocs.net/225579)  
-02-3 WSL  [전자책](https://wikidocs.net/225589)  
+02-1 가상화 개념  [(전자책)](https://wikidocs.net/225653)  
+02-2 VirtualBox  [(전자책)](https://wikidocs.net/225579)  
+02-3 WSL  [(전자책)](https://wikidocs.net/225589)  
 
 **03강 Docker 기본**  
-03-1 Docker 개념  [전자책](https://wikidocs.net/230584)  
-03-2 Docker 설치  [전자책](https://wikidocs.net/225586)  
-03-3 DockerHub  [전자책](https://wikidocs.net/225585)  
-03-4 Docker 환경에서 Ubuntu 설치  [전자책](https://wikidocs.net/225587)  
-03-5 Ubuntu 환경에서 Docker 엔진 설치  [전자책](https://wikidocs.net/226119)  
+03-1 Docker 개념  [(전자책)](https://wikidocs.net/230584)  
+03-2 Docker 설치  [(전자책)](https://wikidocs.net/225586)  
+03-3 DockerHub  [(전자책)](https://wikidocs.net/225585)  
+03-4 Docker 환경에서 Ubuntu 설치  [(전자책)](https://wikidocs.net/225587)  
+03-5 Ubuntu 환경에서 Docker 엔진 설치  [(전자책)](https://wikidocs.net/226119)  
 
 **04 Linux**  
-04-1 터미널 실행  [전자책](https://wikidocs.net/226277)  
-04-2 운영체제 관리 명령어  [전자책](https://wikidocs.net/226276)  
-04-3 파일관리 명령어  [전자책](https://wikidocs.net/226278)  
-04-4 파일의 권한관리  [전자책](https://wikidocs.net/226279)  
-04-5 파일관리 응용  [전자책](https://wikidocs.net/226281)  
+04-1 터미널 실행  [(전자책)](https://wikidocs.net/226277)  
+04-2 운영체제 관리 명령어  [(전자책)](https://wikidocs.net/226276)  
+04-3 파일관리 명령어  [(전자책)](https://wikidocs.net/226278)  
+04-4 파일의 권한관리  [(전자책)](https://wikidocs.net/226279)  
+04-5 파일관리 응용  [(전자책)](https://wikidocs.net/226281)  
 
 **10강 Docker 이미지 관리**  
 01 Docker 개념  [💡동영상](https://www.youtube.com/watch?v=mpaYLpWUCps)  
